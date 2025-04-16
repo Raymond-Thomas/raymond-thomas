@@ -13,8 +13,8 @@
 
 ## 🌐 Connect with Me
 - [Portfolio Website](https://raymond-thomas.github.io/)
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [Email](mailto:your.email@domain.com)
+- [LinkedIn](https://www.linkedin.com/in/ray-j-thomas/)
+- [Email](mailto:rthomas2160@gmail.com)
 
 ## 📌 Goals for 2025
 - Land a full-time role in IT support, data analytics, or system administration
